@@ -47,7 +47,6 @@ Import the Coding file and Using Android studios run the app
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/hannahzhao-)
 
 
@@ -111,14 +110,9 @@ Import the Coding file and Using Android studios run the app
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+This is an andriod App that is built on top of Microsoft's Cognitive API. It keeps track of your moods after the API analyzes a selected picture. The additions are Emojis provided by EmojiOne: https://www.emojione.com/. :smile: 
+* Also, there is now a custome theme to the app and an additional journal for tracking the moods.
+* This client library is a thin Java client wrapper for the Microsoft Emotion REST API.
 
 Use the `BLANK_README.md` to get started.
 
